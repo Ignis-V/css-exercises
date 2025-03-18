@@ -1,0 +1,4 @@
+type the following in the command line to switch branches
+    git switch -c <branch-name>
+it will change from main to the new branch
+confirm with git status
